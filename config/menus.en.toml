@@ -10,27 +10,44 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
 
-#[[main]]
-#  name = "Parent"
+# [[main]]
+#   name = "Posts"
+#   pageRef = "posts"
+#   weight = 15
+
+[[main]]
+  name = "Publications"
+  pageRef = "publication"
+  weight = 20
+
+[[main]]
+ name = "Photograph"
+ parent = "Fun Staff"
+ pageRef = "photo"
+ weight = 20
+
+[[main]]
+ name = "Music"
+ parent = "Fun Staff"
+ pageRef = "music"
+ weight = 20
+
+[[main]]
+ name = "Movies"
+ parent = "Fun Staff"
+ pageRef = "movie"
+ weight = 20
+
+# [[main]]
+#  name = "Books"
+#  parent = "Fun Staff"
+#  pageRef = "book"
 #  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
 #[[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
