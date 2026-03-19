@@ -5,14 +5,22 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 0
+      - name: 下载主题
+        run: |
+          git clone https://github.com/nunocoracao/blowfish.git themes/blowfish --depth=1
 
       - name: 设置Hugo
         uses: peaceiris/actions-hugo@v2
@@ -23,8 +31,18 @@ jobs:
       - name: 构建
         run: hugo --gc --minify
 
-      - name: 部署
-        uses: peaceiris/actions-gh-pages@v3
+      - name: 上传构建产物
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          path: ./public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 部署到GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
