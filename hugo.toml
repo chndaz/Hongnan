@@ -1,10 +1,28 @@
 baseURL = "https://chndaz.github.io/Hongnan/"
-locale = 'en-us'
-title = 'Personal Website'
+locale = 'languageCode'
+title = 'Chn Personal Website'
 theme = "blowfish"
-[params]
-  # Blowfish 强制要求的一个基础色调
+[[menu.main]]
+  name = "关于我"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  name = "影评"
+  url = "/movie/"
+  weight = 2
+
+[[menu.main]]
+  name = "音乐"
+  url = "/music/"
+  weight = 3
+[[params]
   colorScheme = "blowfish"
+  # 【建议增加】让首页显示你最近的内容
+  mainSections = ["movie", "music", "posts"]
+  # 【建议增加】允许文章显示缩略图
+  showSummary = true
 
 [build]
   writeStats = true
+
