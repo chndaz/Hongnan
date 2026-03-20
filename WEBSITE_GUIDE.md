@@ -248,4 +248,4 @@ A: 确保你执行了 `git push origin gh-pages --force` 强制推送到 gh-page
 
 ---
 
-*最后更新: 2024年*
+*最后更新: 2024年3月20*
