@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://chndaz.github.io/PersonalWebsite/about/</loc>
+    <loc>http://localhost:1313/Hongnan/about/</loc>
   </url>
   <url>
-    <loc>https://chndaz.github.io/PersonalWebsite/movie/</loc>
+    <loc>http://localhost:1313/Hongnan/movie/</loc>
   </url>
   <url>
-    <loc>https://chndaz.github.io/PersonalWebsite/music/</loc>
+    <loc>http://localhost:1313/Hongnan/music/</loc>
   </url>
   <url>
-    <loc>https://chndaz.github.io/PersonalWebsite/</loc>
+    <loc>http://localhost:1313/Hongnan/</loc>
   </url>
   <url>
-    <loc>https://chndaz.github.io/PersonalWebsite/photo/</loc>
+    <loc>http://localhost:1313/Hongnan/photo/</loc>
   </url>
   <url>
-    <loc>https://chndaz.github.io/PersonalWebsite/publication/</loc>
+    <loc>http://localhost:1313/Hongnan/publication/</loc>
   </url>
 </urlset>
