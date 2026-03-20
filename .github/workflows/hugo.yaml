@@ -9,29 +9,26 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # 【第一步：必须先签出你的源代码】
+      # 1. 下载你的源代码（包含你已经传上去的主题文件）
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 【第二步：下载主题】
-      - name: 下载主题
-        run: |
-          mkdir -p themes
-          git clone https://github.com/nunocoracao/blowfish.git themes/blowfish --depth=1
-
+      # 2. 设置Hugo环境
       - name: 设置Hugo
-        uses: peaceiris/actions-hugo@v3 # 升级到了 v3 避免 Node 报错
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest' # 使用最新版，适配 Blowfish
+          hugo-version: 'latest'
           extended: true
 
+      # 3. 直接开始构建（因为主题已经在那了）
       - name: 构建
         run: hugo --gc --minify
 
+      # 4. 发布网页
       - name: 部署
-        uses: peaceiris/actions-gh-pages@v4 # 升级到 v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
