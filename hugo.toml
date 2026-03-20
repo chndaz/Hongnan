@@ -2,3 +2,9 @@ baseURL = "https://chndaz.github.io/Hongnan/"
 locale = 'en-us'
 title = 'Personal Website'
 theme = "blowfish"
+[params]
+  # Blowfish 强制要求的一个基础色调
+  colorScheme = "blowfish"
+
+[build]
+  writeStats = true

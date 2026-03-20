@@ -1,16 +1,28 @@
 \---
 
-title: "Hello World"
+title: "Home"
 
 date: 2026-03-20
 
-draft: false
-
 \---
 
+\## ⚡ About Me
 
 
-\# 看到这个就赢了！
 
-这是我的 Hugo 站点。
+🎓 Graduate Student at Hainan University  
+
+🔬 Research in \*\*Computer Vision / Image Segmentation / Semi-Supervised Learning\*\*
+
+\## 📫 Contact
+
+
+
+\- 📧 Email: 23210701000027@hainanu.edu.cn  
+
+\- 💻 GitHub: https://github.com/chndaz  
+
+
+
+
 
