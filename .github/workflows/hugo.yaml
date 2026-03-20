@@ -5,14 +5,21 @@ on:
     branches: [main]
   workflow_dispatch:
 
-# 【新增】必须添加权限，否则 Actions 无法发布网页
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# 确保同时只有一个部署任务在运行
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -29,8 +36,6 @@ jobs:
       - name: 构建
         run: hugo --gc --minify
 
-      # 【改动重点】不再使用 peaceiris/actions-gh-pages
-      # 而是使用官方的两个步骤，这样能彻底干掉 Jekyll 的干扰
       - name: 上传部署包
         uses: actions/upload-pages-artifact@v3
         with:
