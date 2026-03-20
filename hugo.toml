@@ -16,7 +16,7 @@ theme = "blowfish"
   name = "音乐"
   url = "/music/"
   weight = 3
-[[params]
+[params]
   colorScheme = "blowfish"
   # 【建议增加】让首页显示你最近的内容
   mainSections = ["movie", "music", "posts"]
