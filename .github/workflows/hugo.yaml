@@ -5,30 +5,37 @@ on:
     branches: [main]
   workflow_dispatch:
 
+# 【新增】必须添加权限，否则 Actions 无法发布网页
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # 1. 下载你的源代码（包含你已经传上去的主题文件）
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. 设置Hugo环境
       - name: 设置Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
 
-      # 3. 直接开始构建（因为主题已经在那了）
       - name: 构建
         run: hugo --gc --minify
 
-      # 4. 发布网页
-      - name: 部署
-        uses: peaceiris/actions-gh-pages@v4
+      # 【改动重点】不再使用 peaceiris/actions-gh-pages
+      # 而是使用官方的两个步骤，这样能彻底干掉 Jekyll 的干扰
+      - name: 上传部署包
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          path: ./public
+
+      - name: 最终部署到 Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
