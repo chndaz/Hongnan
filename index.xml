@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personal Website</title><link>https://chndaz.github.io/PersonalWebsite/</link><description>Recent content on Personal Website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2026</copyright><atom:link href="https://chndaz.github.io/PersonalWebsite/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://chndaz.github.io/PersonalWebsite/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chndaz.github.io/PersonalWebsite/about/</guid><description>&lt;h1 class="relative group"&gt;About Me 👋
+ &lt;div id="about-me-" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#about-me-" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+
+&lt;h2 class="relative group"&gt;HELLO WORLD! THIS IS MY UPDATED WEBSITE! 🎉
+ &lt;div id="hello-world-this-is-my-updated-website-" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#hello-world-this-is-my-updated-website-" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Welcome to my personal website! This is a TEST to see if the changes are working.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;About Me
+ &lt;div id="about-me" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#about-me" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;[Write your introduction here]&lt;/p&gt;</description></item><item><title>Movies</title><link>https://chndaz.github.io/PersonalWebsite/movie/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chndaz.github.io/PersonalWebsite/movie/</guid><description>&lt;h1 class="relative group"&gt;My Favorite Movies
+ &lt;div id="my-favorite-movies" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#my-favorite-movies" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;[Add your favorite movies here]&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Top Picks
+ &lt;div id="top-picks" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#top-picks" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;[List your top movies here]&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Genres
+ &lt;div id="genres" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#genres" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Action&lt;/li&gt;
+&lt;li&gt;Comedy&lt;/li&gt;
+&lt;li&gt;Drama&lt;/li&gt;
+&lt;li&gt;Sci-Fi&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Music</title><link>https://chndaz.github.io/PersonalWebsite/music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chndaz.github.io/PersonalWebsite/music/</guid><description>&lt;h1 class="relative group"&gt;My Music
+ &lt;div id="my-music" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#my-music" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;[Add your favorite music here]&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Playlists
+ &lt;div id="playlists" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#playlists" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;[List your playlists here]&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Favorite Artists
+ &lt;div id="favorite-artists" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#favorite-artists" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;[List your favorite artists here]&lt;/p&gt;</description></item><item><title>Photograph</title><link>https://chndaz.github.io/PersonalWebsite/photo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chndaz.github.io/PersonalWebsite/photo/</guid><description>&lt;h1 class="relative group"&gt;My Photography
+ &lt;div id="my-photography" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#my-photography" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;[Add your photos here]&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Albums
+ &lt;div id="albums" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#albums" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;[List your photo albums here]&lt;/p&gt;</description></item><item><title>Publications</title><link>https://chndaz.github.io/PersonalWebsite/publication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chndaz.github.io/PersonalWebsite/publication/</guid><description>&lt;h1 class="relative group"&gt;Publications
+ &lt;div id="publications" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#publications" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;[Add your publications here]&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Papers
+ &lt;div id="papers" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#papers" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;[List your academic papers here]&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Articles
+ &lt;div id="articles" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#articles" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;[List your articles here]&lt;/p&gt;</description></item></channel></rss>
