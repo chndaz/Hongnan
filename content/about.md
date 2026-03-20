@@ -1,11 +1,13 @@
 ---
 title: "About"
-description: "About Me"
+description: "About Me - Updated!"
 ---
 
-# About Me
+# About Me 👋
 
-Welcome to my personal website!
+## HELLO WORLD! THIS IS MY UPDATED WEBSITE! 🎉
+
+Welcome to my personal website! This is a TEST to see if the changes are working.
 
 ## About Me
 
