@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Selected Publications"
 
@@ -6,47 +6,47 @@ date: 2022-03-08
 
 layout: "simple"
 
-\---
+---
 
-\## \[Full List](https://scholar.google.com.hk/citations?user=T0ru9jYAAAAJ\&hl=zh-CN)
-
-
-
-\## Journal
+## \[Full List](https://scholar.google.com.hk/citations?user=T0ru9jYAAAAJ\&hl=zh-CN)
 
 
 
-
-
-\*\*Exploiting Image-Report Differences and Inter-View Commonality for Diffusion-based Multi-View Chest X-ray Image Generation\*\*\\
-
-\*\*Jinghan Sun\*\*, Dong Wei, Yanfeng Li, Steven McDonagh, Sotirios A. Tsaftaris, Yuyang Xue, Zhe Xu, Donghuan Lu, Hong Wang, Xian Wu, Yefeng Zheng, Liansheng Wang\\
-
-\*MedIA (under review), 2025.\*
+## Journal
 
 
 
 
 
-\*\*Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation\*\*\\
+*\*Exploiting Image-Report Differences and Inter-View Commonality for Diffusion-based Multi-View Chest X-ray Image Generation\*\*\\
 
-\*\*Jinghan Sun\*\*, Dong Wei, Zhe Xu, Donghuan Lu, Hong Liu, Hong Wang, Liansheng Wang, Sotirios A. Tsaftaris, Steven McDonagh, Yefeng Zheng.\\
+*\*Jinghan Sun\*\*, Dong Wei, Yanfeng Li, Steven McDonagh, Sotirios A. Tsaftaris, Yuyang Xue, Zhe Xu, Donghuan Lu, Hong Wang, Xian Wu, Yefeng Zheng, Liansheng Wang\\
 
-\*IEEE TMI, 2024.\*
-
-\[Paper](https://ieeexplore.ieee.org/document/10798513)
+*MedIA (under review), 2025.\*
 
 
 
 
 
-\*\*Hybrid unsupervised representation learning and pseudo-label supervised self-distillation for rare disease imaging phenotype classification with dispersion-aware imbalance correction\*\*\\
+*\*Unlocking the Potential of Weakly Labeled Data: A Co-Evolutionary Learning Framework for Abnormality Detection and Report Generation\*\*\\
 
-\*\*Jinghan Sun\*\*, Dong Wei, Liansheng Wang, Yefeng Zheng.\\
+*\*Jinghan Sun\*\*, Dong Wei, Zhe Xu, Donghuan Lu, Hong Liu, Hong Wang, Liansheng Wang, Sotirios A. Tsaftaris, Steven McDonagh, Yefeng Zheng.\\
 
-\*Medical Image Analysis (MedIA), 2024.\*\\
+*IEEE TMI, 2024.\*
 
-\[Paper](https://www.sciencedirect.com/science/article/pii/S1361841524000276), \[Code](https://github.com/jinghanSunn/Hybrid-Representation-Learning-Approach-for-Rare-Disease-Classification)
+[Paper](https://ieeexplore.ieee.org/document/10798513)
+
+
+
+
+
+*\*Hybrid unsupervised representation learning and pseudo-label supervised self-distillation for rare disease imaging phenotype classification with dispersion-aware imbalance correction\*\*\\
+
+*\*Jinghan Sun\*\*, Dong Wei, Liansheng Wang, Yefeng Zheng.\\
+
+*Medical Image Analysis (MedIA), 2024.\*\\
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S1361841524000276), \[Code](https://github.com/jinghanSunn/Hybrid-Representation-Learning-Approach-for-Rare-Disease-Classification)
 
 
 
@@ -54,15 +54,15 @@ layout: "simple"
 
 
 
-\## Conference
+## Conference
 
 
 
-\*\*Multimodal Dual-Path Large-Model Decoding for Radiology Report Generation\*\*\\
+*\*Multimodal Dual-Path Large-Model Decoding for Radiology Report Generation\*\*\\
 
-\*\*Jinghan Sun\*\*, Dong Wei, Zhihong Zhu, Yuyang Xue, Steven McDonagh, Xian Wu\\
+*\*Jinghan Sun\*\*, Dong Wei, Zhihong Zhu, Yuyang Xue, Steven McDonagh, Xian Wu\\
 
-\*the Association for Computational Linguistics (ACL 2026, under review) .\*
+*the Association for Computational Linguistics (ACL 2026, under review) .\*
 
 
 
