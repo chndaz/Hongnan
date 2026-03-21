@@ -3,7 +3,7 @@ title: "Biography"
 ---
 
 
-<img src="./t/chn1.JPG" width="250px" style="float: left; margin-right: 40px; margin-bottom: 20px;">
+<img src="t/chn1.JPG" width="250px" style="float: left; margin-right: 40px; margin-bottom: 20px;">
 
 
 More recently, my research has shifted toward large-scale models for biological applications. I am particularly interested in gene function and structural annotation using foundation models, as well as cell trajectory generation and modeling. My goal is to leverage advanced AI techniques to better understand complex biological systems and enable data-driven discoveries.
@@ -30,8 +30,8 @@ chnan0027@gmail.com
 <br clear="left"/>
 
 
-<img src="./t/chn2.JPG" width="250px" style="float: left; margin-right: 40px; margin-bottom: 10px;">
->>>>>>> 88fa54f (Fix0320: enable submodules in workflow26032018)
+<img src="t/chn2.JPG" width="250px" style="float: left; margin-right: 40px; margin-bottom: 10px;">
+
 
 ## Professional Services
 
