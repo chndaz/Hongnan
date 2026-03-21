@@ -8,7 +8,7 @@ layout: "simple"
 
 ---
 
-## [Full List](https://scholar.google.com.hk/citations?user=T0ru9jYAAAAJ\&hl=zh-CN)
+## [Full List](https://scholar.google.com/citations?hl=zh-CN&user=rEK1gO8AAAAJ)
 
 
 
@@ -16,11 +16,9 @@ layout: "simple"
 
 
 
+**Exploiting Image-Report Differences and Inter-View Commonality for Diffusion-based Multi-View Chest X-ray Image Generation**\
 
-
-**Exploiting Image-Report Differences and Inter-View Commonality for Diffusion-based Multi-View Chest X-ray Image Generation**\\
-
-**Jinghan Sun**, Dong Wei, Yanfeng Li, Steven McDonagh, Sotirios A. Tsaftaris, Yuyang Xue, Zhe Xu, Donghuan Lu, Hong Wang, Xian Wu, Yefeng Zheng, Liansheng Wang\\
+**Jinghan Sun**, Dong Wei, Yanfeng Li, Steven McDonagh, Sotirios A. Tsaftaris, Yuyang Xue, Zhe Xu, Donghuan Lu, Hong Wang, Xian Wu, Yefeng Zheng, Liansheng Wang\
 
 *MedIA (under review), 2025.\*
 
