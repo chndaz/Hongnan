@@ -2,7 +2,9 @@
 title: "Biography"
 ---
 
-<img src="/Hongnan/about/t/chn1.JPG" width="250px" style="float: left; margin-right: 30px; margin-bottom: 20px; border-radius: 8px;">
+<img src="/Hongnan/about/t/chn2.JPG" width="250px" style="float: left; margin-right: 30px; margin-bottom: 20px; border-radius: 8px;">
+
+I am currently a graduate student at Hainan University, with research interests spanning computer vision, medical image analysis, and AI for biological data. My early work focused on image segmentation tasks, including gland segmentation in histopathological images, where I explored attention-based architectures and deep learning methods to improve boundary accuracy.
 
 More recently, my research has shifted toward large-scale models for biological applications. I am particularly interested in gene function and structural annotation using foundation models, as well as cell trajectory generation and modeling. My goal is to leverage advanced AI techniques to better understand complex biological systems and enable data-driven discoveries.
 
