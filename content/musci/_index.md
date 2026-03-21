@@ -1,12 +1,15 @@
-\---
+---
 
-title: "我的影评首页"
+title: "Music"
 
-description: "这里是我看过的所有电影"
+layout: "simple"
 
-layout: "list"  # 告诉主题：这是一个列表页，请列出我下面的子文章
+---
 
-\---
-
-这是影评分类的介绍文字。
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/Hongnan/about/m/zjl.JPG" 
+       width="450px" 
+       alt="Image" 
+       style="display: block; margin: 0 auto;"/>
+</div>
 
