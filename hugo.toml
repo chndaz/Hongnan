@@ -9,7 +9,7 @@ theme = "blowfish"
 
 [[menu.main]]
   name = "Publications"
-  url = "/movie/"
+  url = "/pulication/"
   weight = 2
 
 [[menu.main]]

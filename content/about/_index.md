@@ -31,7 +31,7 @@ In addition to my research, I have gained hands-on industry experience through s
 
 ## Misc.
 
-I enjoy working on challenging projects, especially in areas that align with my interests, such as image processing, semi-supervised learning, object detection and tracking, as well as large model training and fine-tuning. Successfully completing these projects gives me a strong sense of accomplishment and motivates me to further explore advanced techniques in these fields.
+I enjoy challenging projects in image processing, semi-supervised learning, detection, tracking, and large model fine-tuning. Achievements drive me to explore advanced techniques.
 
 <br clear="left"/>
 
