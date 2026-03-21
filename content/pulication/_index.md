@@ -16,11 +16,9 @@ layout: "simple"
 
 
 
-**Exploiting Image-Report Differences and Inter-View Commonality for Diffusion-based Multi-View Chest X-ray Image Generation**\
+**Segmentation of IC Images in Integrated Circuit Reverse Engineering Using EfficientNet Encoder Based on U‐Net++ Architecture[J]. International Journal of Circuit Theory and Applications, 2025, 53(10): 5913-5923.**
 
-**Jinghan Sun**, Dong Wei, Yanfeng Li, Steven McDonagh, Sotirios A. Tsaftaris, Yuyang Xue, Zhe Xu, Donghuan Lu, Hong Wang, Xian Wu, Yefeng Zheng, Liansheng Wang\
-
-*MedIA (under review), 2025.\*
+**Iterative deep PU learning combined with data features [J]. International Journal of Circuit Theory and Applications,2026.**
 
 
 
