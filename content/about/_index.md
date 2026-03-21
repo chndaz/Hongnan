@@ -1,5 +1,6 @@
 ---
 title: "Biography"
+layout: "wide"
 ---
 
 <img src="/Hongnan/about/t/chn2.JPG" width="250px" style="float: left; margin-right: 30px; margin-bottom: 20px; border-radius: 8px;">
