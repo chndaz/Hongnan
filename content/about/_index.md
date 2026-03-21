@@ -30,8 +30,7 @@ chnan0027@gmail.com
 <br clear="left"/>
 
 
-<img src="/Hongnan/about/t/chn2.JPG" width="250px" style="float: left; margin-right: 40px; margin-bottom: 10px;">
-
+<img src="/Hongnan/about/t/chn2.JPG" width="250px" style="float: left; margin-right: 40px; margin-bottom: 20px;">
 
 ## Professional Services
 
