@@ -30,5 +30,16 @@ IEEE Signal Processing Letters [Paper](https://ieeexplore.ieee.org/abstract/docu
 **Quantum-Inspired Dynamic Spatiotemporal Matching Transformer for Traffic Flow Forecasting**  
 IEEE Transactions on Consumer Electronics [Paper](https://ieeexplore.ieee.org/abstract/document/11296872)
 
+## Blogpost
+
+If you would like to learn more about my experience with paper submission and code reproduction, please visit my blog at:[URL](https://blog.csdn.net/qq_61776376?type=blog)
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/Hongnan/about/p/csdn.png" 
+       width="1500px" 
+       alt="Image" 
+       style="display: block; margin: 0 auto;"/>
+</div>
+
 
 
