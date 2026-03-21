@@ -1,19 +1,19 @@
 baseURL = "https://chndaz.github.io/Hongnan/"
 locale = 'languageCode'
-title = 'Chn Personal Website'
+title = 'Hongnan Cheng Personal Website'
 theme = "blowfish"
 [[menu.main]]
-  name = "关于我"
+  name = "About Me"
   url = "/about/"
   weight = 1
 
 [[menu.main]]
-  name = "影评"
+  name = "Publications"
   url = "/movie/"
   weight = 2
 
 [[menu.main]]
-  name = "音乐"
+  name = "Music"
   url = "/music/"
   weight = 3
 [params]
