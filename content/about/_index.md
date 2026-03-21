@@ -23,7 +23,7 @@ In addition to my research, I have gained hands-on industry experience through s
 
 ## Professional Services
 
-- **Regular Reviewers/PC Member:**
+- **Regular Reviewers:**
   - Biomedical Signal Processing and Control
   - Journal of Big Data
 
@@ -36,6 +36,6 @@ I enjoy challenging projects in image processing, semi-supervised learning, dete
 <br clear="left"/>
 
 ### Contact
-23210701000027@hainanu.edu.cn;chnan0027@gmail.com
+23210701000027@hainanu.edu.cn; chnan0027@gmail.com
 
 
